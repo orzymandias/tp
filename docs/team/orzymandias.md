@@ -21,7 +21,14 @@ It tracks and leverages on key metrics and information to create an optimal inte
 * Code contributed: [RepoSense link]()
 
 * **Project management**:
-  * Managed releases `v1.3` - `v1.5rc` (3 releases) on GitHub
+  * Managed issue tracker
+  
+* **Team Tasks**:
+  * Design and implement the parser which all non single word commands are based off of.
+  * Wrote integration code for all add and delete commands.
+  * Update the use cases for all commands to reduce repetition.
+  * Wrote the Non Functional Requirements.
+  * Update the edit commands to comply with Law of Demeter. [\#33]()
 
 * **Enhancements to existing features**:
   * Updated the GUI color scheme (Pull requests [\#33](), [\#34]())
@@ -33,9 +40,6 @@ It tracks and leverages on key metrics and information to create an optimal inte
   * Reported bugs and suggestions for other teams in the class:
 
 * **Tools**:
-  * Integrated a new Github plugin (CircleCI) to the team repo
-
-* _{you can add/remove categories in the list above}_
 
 ## Contributions to the User Guide
 
